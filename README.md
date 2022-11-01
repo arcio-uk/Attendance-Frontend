@@ -1,5 +1,11 @@
 # FrontEnd
 
+## Credits
+
+ - [@JohnCosta27](https://github.com/JohnCosta27) For the biggest percentage of this frontend, lots of the structure to request data and display it to the user in a friendly way
+ - [@Acorn221](https://github.com/Acorn221) For lots of the frontend design work and some of the functionality, including the login page, the home page card, the attendometer chart and the animated button
+ - [@IzStriker](https://github.com/IzStriker) For work on the frontend functionality
+
 ## Commit rules
 
 Husky is setup to inforce commit rules through CommitLint
